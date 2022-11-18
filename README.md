@@ -4,8 +4,10 @@ the root DAO of the Decentralists
 
 ## TODO
 
-- [?] Mission -- what are we here for
-- [?] Plan -- high level plan with sequence
+Everything is still in draft form.
+
+- [ ] Mission -- what are we here for
+- [ ] Plan -- high level plan with sequence
 - [ ] Bylaws -- the structure of checks and balances
 - [ ] HowItWorks -- some main descriptive document that guides users
 - [ ] Initial Categories -- ... of Cosmos Hub work; split atom2.0, but also other needed improvements
@@ -66,9 +68,43 @@ Phase 2: All DAOs all the way.
 
 the structure of checks and balances
 
+Some draft points
+
+* The top level DAO can modify "official" groups that apply to be managed by
+  the top level DAO.
+
+* Anyone can create group/team DAOs permissionlessly.
+
+TODO: define group vs team DAOs.
+
 ## HowItWorks
 
-some main descriptive document that guides users
+... main descriptive document that guides users
+
+Some draft points
+
+* Anyone can create a "group" represented as a DAO to discuss particular topics.
+* Each group shall have roles like "moderators", "scribes".
+* Each group "discussion" shall be structured into "categories".
+* Each "issue" can have proposals or bids from multiple "teams".
+* Teams are also represented as DAOs.
+
+Example: we create the "Security" group to discuss issues around security.  An
+issue is raised regarding a particular issue. 
+
+Multiple competing security teams propose solutions or their analysis of the
+situation.
+
+The group decides to pay for a particular bid/contract, and so payment goes
+from its treasury to the winning team's account. The contract is recorded in
+the books and reviewed in the future for holding winning bidders accountable.
+
+The group's moderators help productive conversation without spam or drama.
+The group's scribe posts daily or weekly updates of discussions.
+
+At first, this group ran on donations, but later it gets funding from the
+Decentralists DAO, which has an ongoing contract with the Cosmos Hub community
+pool.
 
 ## Initial Categories
 
@@ -76,13 +112,36 @@ some main descriptive document that guides users
 
 split atom2.0, but also other needed improvements
 
+ * Larger Community Pool
+ * Tokenomics
+ * Funding for Developers/Members Through Pool
+ * Governance Fixes
+ * Interchain Security (ICS)
+ * Killer Applications of ICS
+ * Security
+ * New Member Discovery
+ * IBC Improvements
+ * Educational Constitution
+ * Communication (meta)
+ * Governance Discussions & Planning (meta)
+ * and more
+
 ## About
 
-how we came to be
+Cosmonauts ask 82 NoWithVeto voters what is next.
+The Decentralists in response demonstrates open and structured governance discourse.
 
 ## Code of Conduct 
 
-applies everywhere on-chain and off-chain
+Applies everywhere on-chain and off-chain
+
+Each group can have their own specific policies too but global policies apply.
+
+TODO: role of moderators for each group.
+
+NOTE: It is the role of Cosmonauts to fork the Decentralists DAO if the code of
+conduct policy isn't working for them. It is the duty of the Decentralists to
+offer products that can so be forked.
 
 ## Members and Partners
 
