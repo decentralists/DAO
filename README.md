@@ -75,6 +75,9 @@ Some draft points
 
 * Anyone can create group/team DAOs permissionlessly.
 
+* All DAO discussions must abide by common (global) code of conduct policies.
+  This is needed to prevent spam, trolling, and misinformaation.
+
 TODO: define group vs team DAOs.
 
 ## HowItWorks
@@ -142,6 +145,39 @@ TODO: role of moderators for each group.
 NOTE: It is the role of Cosmonauts to fork the Decentralists DAO if the code of
 conduct policy isn't working for them. It is the duty of the Decentralists to
 offer products that can so be forked.
+
+Pinned somewhere should say, 
+
+```
+To the Decentralists,
+
+This information will be pinned and brought to the forefront of the basis for
+communications within these channels. We’d like to encourage transparent,
+polite and grounded discourse so we will propose some guidelines here so that
+anyone interested in contributing to the Cosmos Hub will feel comfortable
+exchanging viewpoints and ideas. Let’s aim for the efforts here to lead a
+successful conversation and agreeable proposals and technical updates for the
+Cosmos.
+
+Please,
+
+- Be mindful of the community, anyone that has found their way here is a
+  contributor to the idea building that will be necessary to have consensus.
+
+- Keep conversations in good faith, stay consistent and provide sources when
+  possible.
+
+- No ad hominem, personal attacks, mudslinging, toxic attitudes or smear
+  campaigns will be tolerated.
+
+- Remember to bring contributions, opinions and feedback to the table.
+
+Thank you for agreeing to contribute to the growth of the Cosmos community by
+actively participating and following these guidelines in the Decentralist
+Channels.
+
+TODO: Link to Decentralists DAO code of conduct policy doc.
+```
 
 ## Members and Partners
 
