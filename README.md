@@ -4,11 +4,11 @@ the root DAO of the Decentralists
 
 ## TODO
 
-- [ ] Mission -- what are we here for
-- [ ] Plan -- high level plan with sequence
+- [?] Mission -- what are we here for
+- [?] Plan -- high level plan with sequence
 - [ ] Bylaws -- the structure of checks and balances
 - [ ] HowItWorks -- some main descriptive document that guides users
-- [ ] Initial Categories of Cosmos Hub work -- split atom2.0, but also other needed improvements
+- [ ] Initial Categories -- ... of Cosmos Hub work; split atom2.0, but also other needed improvements
 - [ ] About -- how we came to be
 - [ ] CodeOfConduct -- applies everywhere on-chain and off-chain
 - [ ] Members and Partners -- member individuals and partner organizations
@@ -61,3 +61,29 @@ Phase 2: All DAOs all the way.
    manipulation from private interests.
  * the Cosmos stack becomes the base stack for community self-governance.
  * competition among DAO stacks too.
+
+## Bylaws 
+
+the structure of checks and balances
+
+## HowItWorks
+
+some main descriptive document that guides users
+
+## Initial Categories
+
+... of Cosmos Hub work
+
+split atom2.0, but also other needed improvements
+
+## About
+
+how we came to be
+
+## Code of Conduct 
+
+applies everywhere on-chain and off-chain
+
+## Members and Partners
+
+member individuals and partner organizations
