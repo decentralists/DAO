@@ -17,7 +17,7 @@ Everything is still in draft form.
 
 ## Mission 
 
-Better discourse for better organization management (through smart contracts).
+Better discourse for better organization management and conflict management (through smart contracts).
 
 ## Plan
 
