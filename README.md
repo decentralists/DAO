@@ -135,6 +135,7 @@ split atom2.0, but also other needed improvements
  * Educational Constitution
  * Communication (meta)
  * Governance Discussions & Planning (meta)
+ * Constitutional Convention
  * and more
 
 ## About
