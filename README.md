@@ -38,7 +38,11 @@ suggested by the category DAO. That way we can have competition among peer
 groups but constructive discourse and on-chain accountability to let the best
 groups and ideas win.
 
-## Plan - Phases
+## Plan
+
+TODO: Revise plan
+
+### Proposal A (deprecated)
 
 We will define a suitable DAO framework.
 
@@ -63,6 +67,10 @@ Phase 2: All DAOs all the way.
    manipulation from private interests.
  * the Cosmos stack becomes the base stack for community self-governance.
  * competition among DAO stacks too.
+
+### Proposal B
+
+TODO
 
 ## Bylaws 
 
