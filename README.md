@@ -7,7 +7,7 @@ the root DAO of the Decentralists
 Everything is still in draft form.
 
 - [ ] Mission -- what are we here for
-- [ ] Plan -- high level plan with sequence
+- [x] Plan -- high level plan with sequence
 - [ ] Bylaws -- the structure of checks and balances
 - [ ] HowItWorks -- some main descriptive document that guides users
 - [ ] Initial Categories -- ... of Cosmos Hub work; split atom2.0, but also other needed improvements
@@ -38,7 +38,11 @@ suggested by the category DAO. That way we can have competition among peer
 groups but constructive discourse and on-chain accountability to let the best
 groups and ideas win.
 
-## Plan
+In another example, within the Cosmos Hub governance category, there would be
+multiple topics of discussion, and many individuals and teams proposing changes
+to the working constitution or plan document.
+
+ * [/cosmoshub/README.md](proposed Cosmos Hub plan document)
 
 TODO: Revise plan
 
@@ -134,7 +138,7 @@ split atom2.0, but also other needed improvements
  * IBC Improvements
  * Educational Constitution
  * Communication (meta)
- * Governance Discussions & Planning (meta)
+ * Governance Discussions & Planning
  * Constitutional Convention
  * and more
 
@@ -188,6 +192,11 @@ Channels.
 TODO: Link to Decentralists DAO code of conduct policy doc.
 ```
 
-## Members and Partners
+## Cosmonaut Decentralists Forum.
 
-member individuals and partner organizations
+TODO: Link to Cosmonaut Decentralists Forum.
+NOTE: Proposed "Cosmonaut" definition in ATOM ONE.
+
+## Misc
+
+* TODO 

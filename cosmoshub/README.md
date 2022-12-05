@@ -131,10 +131,10 @@ pool.
 
 * The usage of "Tendermint" to refer to software is deprecated.
 * "github.com/tendermint/tendermint" --> freeze at latest release. bugfixes allowed.
-* Tendermint++ --> new community branch led by Informal repo: [ask Informal]
+* Tendermint++ --> new community branch led by Informal repo: [awaiting decision from Informal]
 * Tendermint2 --> new branch led by NewTendermint,LLC. repo: github.com/tendermint/tendermint2
 
-Need: agreement from Informal & NewTendermint,LLC.
+TODO: confirm decision with Informal regarding Informal leading Tendermint++.
 
 ## Interbranch Dev Team (IDT)
 
