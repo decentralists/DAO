@@ -72,6 +72,9 @@ to us.
 
 This naturally leads to the need for DAOs for accountably treasury management.
 
+See [https://www.mintscan.io/cosmos/proposals/88](Prop88) for a proposal to
+increase the tax rate for the community pool.
+
 
 # Liquid Staking
 
@@ -207,3 +210,9 @@ needs to include enough so that when there is any doubt, it can serve as
 arbiter. For example, if there was a software bug, the constitution may
 elucidate what was intended, in plain english. Thus, the ATOM ONE constitution
 still lacks much of the governance features that are already implemented.
+
+
+# Resources
+
+ * https://github.com/tendermint/atom_one
+ * https://www.mintscan.io/cosmos/proposals/88 - Proposal to increase the community pool tax rate
