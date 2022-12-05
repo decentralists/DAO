@@ -148,7 +148,7 @@ deliberation.
 * The usage of "Tendermint" to refer to software is deprecated.
 * "github.com/tendermint/tendermint" --> freeze at latest release. bugfixes allowed.
 * Tendermint++ --> new community branch led by Informal repo: [awaiting decision from Informal]
-* Tendermint2 --> new branch led by NewTendermint,LLC. repo: github.com/tendermint/tendermint2
+* [github.com/tendermint/tendermint2](Tendermint2) --> new branch led by NewTendermint,LLC.
 
 TODO: confirm decision with Informal regarding Informal leading Tendermint++.
 
@@ -215,4 +215,5 @@ still lacks much of the governance features that are already implemented.
 # Resources
 
  * https://github.com/tendermint/atom_one
+ * https://github.com/tendermint/tendermint2
  * https://www.mintscan.io/cosmos/proposals/88 - Proposal to increase the community pool tax rate
