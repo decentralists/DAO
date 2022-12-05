@@ -59,38 +59,6 @@ there are many reasons to "dematerialize" them. The same will be true for zone
 tokens. We must have hubs and spokes. What we need are freedom of choice of
 hubs.
 
-What would make a good token hub? Besides adoption, what zones want is
-security. Not just economic security in the form of a high market cap for the
-staking token, but also security in the form of conservatism, in the form of
-not taking unnecessary risks. Prop82 was the kind of proposal that would turn
-the hub from something minimal and secure into something that is risky and
-unproven. To prevent similar situations from happening repeatedly, we need
-among other things, a written constitution that declares the scope of the
-Cosmos Hub. A constitution document isn't sufficient, but it is necessary to
-retain focus and culture.
-
-
-# Constitution
-
-We need multiple groud-up approaches here, and synthesis of ideas, before we
-can come up with the final product. 
-
-We recommend that we use this repository to keep track of all constitution
-efforts, so that they may perhaps merge into one.
-
- * https://github.com/tendermint/atom_one
-
-NOTE: The ATOM ONE constitution proposal needs to split into two pieces. The
-core constitution, and the secondary amendment that discusses ICS2 and the
-PHOTON token. 
-
-NOTE: an english constitution is a superset of the major procedures of
-the governance module. It doesn't need to include all of the elements, but it
-needs to include enough so that when there is any doubt, it can serve as
-arbiter. For example, if there was a software bug, the constitution may
-elucidate what was intended, in plain english. Thus, the ATOM ONE constitution
-still lacks much of the governance features that are already implemented.
-
 
 # Tokenomics
 
@@ -168,10 +136,10 @@ pool.
 
 Need: agreement from Informal & NewTendermint,LLC.
 
-## Interbranch Dev Team
+## Interbranch Dev Team (IDT)
 
-Inter-branch development team as a DAO managed development team, seperate from
-the Gaia development team.
+Inter-branch development team as a DAO managed & funded development team,
+seperate from the Gaia development team.
 
 Will work with Tendermint++, Tendermint2, and other forks, as well as
 CosmosSDK, and other forks, to create a directory/taxonomy of forks.
@@ -182,7 +150,11 @@ favorite SDK version, as well as however team members want.
 Will work with the declared principles of each repo, such as dependency
 reduction for Tendermint2.
 
+Will solve ICS separately from any other team, for diversity's sake.
+
 Funding commitment TBD from AIB, but will be significant. ICF should match.
+
+The IDT is separate from but intersects with many other development teams.
 
 ## The People's Forum for Cosmos & Crypto
 
@@ -190,3 +162,35 @@ All in Bits, Inc will help steer this forum to bring Cosmos and interchain
 ecosystem together, starting with the forks around Tendermint and the Cosmos
 SDK. In this way, AIB will not just be partially funding, but helping the
 Interbranch Dev Team connect with every developer and project.
+
+
+# Constitution
+
+What would make a good token hub? Besides adoption, what zones want is
+security. Not just economic security in the form of a high market cap for the
+staking token, but also security in the form of conservatism, in the form of
+not taking unnecessary risks. Prop82 was the kind of proposal that would turn
+the hub from something minimal and secure into something that is risky and
+unproven. To prevent similar situations from happening repeatedly, we need
+among other things, a written constitution that declares the scope of the
+Cosmos Hub. A constitution document isn't sufficient, but it is necessary to
+retain focus and culture.
+
+We need multiple groud-up approaches here, and synthesis of ideas, before we
+can come up with the final product. 
+
+We recommend that we use this repository to keep track of all constitution
+efforts, so that they may perhaps merge into one.
+
+ * https://github.com/tendermint/atom_one
+
+NOTE: The ATOM ONE constitution proposal needs to split into two pieces. The
+core constitution, and the secondary amendment that discusses ICS2 and the
+PHOTON token. 
+
+NOTE: an english constitution is a superset of the major procedures of
+the governance module. It doesn't need to include all of the elements, but it
+needs to include enough so that when there is any doubt, it can serve as
+arbiter. For example, if there was a software bug, the constitution may
+elucidate what was intended, in plain english. Thus, the ATOM ONE constitution
+still lacks much of the governance features that are already implemented.
