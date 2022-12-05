@@ -130,12 +130,13 @@ pool.
 Yes/No/NoWithVeto should just be Yes/No with +2/3 required for all approvals.
 Some proposal types by constitution may require more than +2/3 to adopt, such
 as parameter update proposals that may be dangerous or contentious. This removes
-the complexity of needing the veto system.
+the complexity of needing the veto system. Prop75 should also be reverted.
 
 Also, the governance process should extend the voting deadline to ensure at
 least 2 weeks of voting after the minimum quorum has been met. If anything, the
 total voting period should be longer for normal proposals, for longer
 deliberation.
+
 
 # Tendermint & Cosmos SDK & Forks
 
