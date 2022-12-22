@@ -153,24 +153,19 @@ longer deliberation.
 ## Tendermint*
 
 * The usage of "Tendermint" to refer to software is deprecated.
-* "github.com/tendermint/tendermint" --> freeze at latest release. bugfixes
-allowed.
-* Tendermint++ --> new community branch led by Informal repo: [awaiting
-decision from Informal]
+* "github.com/tendermint/tendermint" --> freeze at latest release for cosmoshub-4.
 * [github.com/tendermint/tendermint2](Tendermint2) --> new branch led by
 NewTendermint,LLC.
-
-TODO: confirm decision with Informal regarding Informal leading Tendermint++.
 
 ## Interbranch Dev Team (IDT)
 
 Inter-branch development team as a DAO managed & funded development team,
 seperate from the Gaia development team.
 
-Will work with Tendermint++, Tendermint2, and other forks, as well as
+Will work with Tendermint2 and other forks, as well as
 CosmosSDK, and other forks, to create a directory/taxonomy of forks.
 
-Will suggest PRs between Tendermint++, Tendermint2, the CosmosSDK, and the
+Will suggest PRs between Tendermint, Tendermint2, the CosmosSDK, and the
 next
 favorite SDK version, as well as however team members want.
 
@@ -225,7 +220,8 @@ still lacks much of the governance features that are already implemented.
 
 # Resources
 
+ * https://github.com/tendermint/ecosystem
+  * https://github.com/tendermint/tendermint2
  * https://github.com/tendermint/atom_one
- * https://github.com/tendermint/tendermint2
  * https://www.mintscan.io/cosmos/proposals/88 - Proposal to increase the
 community pool tax rate
