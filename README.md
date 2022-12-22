@@ -2,6 +2,9 @@
 
 the root DAO of the Decentralists
 
+- [meetings](/meetings)
+- [contributions](/contributions)
+
 ## TODO
 
 Everything is still in draft form.
