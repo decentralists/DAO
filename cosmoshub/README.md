@@ -145,12 +145,8 @@ deliberation.
 
 ## Tendermint*
 
-* The usage of "Tendermint" to refer to software is deprecated.
-* "github.com/tendermint/tendermint" --> freeze at latest release. bugfixes allowed.
-* Tendermint++ --> new community branch led by Informal repo: [awaiting decision from Informal]
+* "github.com/tendermint/tendermint" --> freeze at latest release for cosmoshub-4. bugfixes allowed.
 * [github.com/tendermint/tendermint2](Tendermint2) --> new branch led by NewTendermint,LLC.
-
-TODO: confirm decision with Informal regarding Informal leading Tendermint++.
 
 ## Interbranch Dev Team (IDT)
 
