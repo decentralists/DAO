@@ -157,6 +157,8 @@ longer deliberation.
 * [github.com/tendermint/tendermint2](Tendermint2) --> new branch led by
 NewTendermint,LLC.
 
+For Tendermint and CosmosSDK forks, please fill out the [survey form](https://docs.google.com/forms/d/e/1FAIpQLSeAZ4ILjJL39Fk_LIZD0L5qvFt4mqONVPaQ-ODuFSF0-dx4hw/viewform?usp=sf_link). 
+
 ## Interbranch Dev Team (IDT)
 
 Inter-branch development team as a DAO managed & funded development team,
@@ -221,7 +223,7 @@ still lacks much of the governance features that are already implemented.
 # Resources
 
  * https://github.com/tendermint/ecosystem
-  * https://github.com/tendermint/tendermint2
+ * https://github.com/tendermint/tendermint2
  * https://github.com/tendermint/atom_one
  * https://www.mintscan.io/cosmos/proposals/88 - Proposal to increase the
 community pool tax rate
