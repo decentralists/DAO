@@ -1,11 +1,10 @@
 ## The Inter-Fork Collaboration Directory, a Decentralists DAO initiative
 
-Today, there are thousands of forks of Cosmos tech (Cosmos SDK, Tendermint Core, Gaia, and Interchain Standards) and 175+ Cosmos chain validators. Navigating the ecosystem in search of active projects and developers is a challenge, especially if you don’t have a personal contact to guide you. The Inter-Fork Collaboration directory is an initiative to be that guide: 
-to make it easier for existing projects and newcomers to identify collaborators
-find development synergies and implementations
-make introductions to potential partners and overall get plugged into the ecosystem 
-
-There are additional benefits to participating in the Inter-Fork Collaboration directory that apply to active projects, validators, and contributors working in the space. 
+Today, there are thousands of forks of Cosmos tech (Cosmos SDK, Tendermint Core, Gaia, and Interchain Standards) and 175+ Cosmos chain validators. Navigating the ecosystem in search of active projects and developers is a challenge, especially if you don’t have a personal contact to guide you. The Inter-Fork Collaboration directory is an initiative to help serve as a guide to:
+- make it easier for existing projects and newcomers to identify collaborators
+- find development synergies and implementations
+- make introductions to potential partners
+- get plugged into the ecosystem 
 
 ## Why does Cosmos need an ecosystem directory?
 
@@ -18,13 +17,15 @@ There are additional benefits to participating in the Inter-Fork Collaboration d
 4. Security and troubleshooting 
    - A challenge every core tech team within Cosmos has struggled with is security reporting and upgrades. Security and auditing are done at the expense of an organization, but bug bounty programs and overall security reporting are essential to keeping up the standards of the tech for everyone. Security issues are often not reported to the original team, causing reputational damage or harm to its users, not to mention given the different versions used - a security issue could be only applicable to that specific version. 
 
-The Inter-Fork Collaboration directory is a Decentralists DAO initiative that encourages the developer community to make access to information and engineering work easier and more personal. If you answer yes to these questions, then submit a pull request and add the information to the directory. 
+The Inter-Fork Collaboration directory is a Decentralists DAO initiative to build a registry of Cosmos projects and validators for the community. A comprehensive list of projects and validators, with information on who they are and how to get in touch, will make it easier for the community to engage directly with one another and collaborate. 
 
-* Did you start your project using Cosmos technology?
-* Did you get support from the Cosmos community?
-* Have you benefited from Cosmos technology?
-* Do you care about the quality of the technology and open source community?
-* Do you want to support the growth of the developer community?
-* Do you want a collaborative space that flourishes from transparent knowledge sharing?
+If you are a project using Cosmos tech and resources in your development, benefited from the work that has been released, and care about the quality of the ecosystem - adding your project or validator helps support knowledge sharing and growth for future community members. Transparency and access to information is critical to growing the community of Cosmos builders and entrepreneurs in the years to come. The work that was done to educate and onboard the early adopters has wildly paid off for many projects, validators and people, now we are asking you to help make it easy for newcomers to get connected. 
 
-TODO - add instructions on how to submit to the directory and the template 
+In order, to make this list comprehensive, inclusive and without any impartiality or prejudice, your support and involvement is greatly appreciated. If you’ve ever struggled to connect in the Cosmos ecosystem, a directory (and for those over 30, what was known as the yellow pages) is a resource that everyone can benefit from and contribute to. 
+
+We have created two template forms, one if you are project that has forked Cosmos tech, and another if you are a Cosmos validator. Depending on the nature of your contribution, please submit a pull request with this basic information to be included, and if you want to add more, feel free!
+
+Thank you, 
+Decentralists DAO
+
+
