@@ -22,13 +22,13 @@ To address this issue, we propose an extension mechanism for the voting period. 
 
 The work-in-progress text of the related _Architecture Description Record_ (ADR) can be found [here](../adrs/voting-period-extension-late-quorum.md), while the code can be found [here](https://github.com/allinbits/cosmos-sdk/tree/giunatale/late-quorum-vote-extension). Both are still subject to changes and improvements.
 
-### 2. Proposals Deposit Auto-Throttler
+### 2. Spam Prevention: Proposals Deposit Auto-Throttler
 
 The Cosmos Hub governance - as well as other Cosmos chains - has been recently suffering from governance spam, with several proposals being submitted that are aiming at spreading misinformation and scams. While ultimately the impact for the chain is only an increase in the governance proposal index, the majority of these proposals contain harmful links that could potentially pose a risk to unsuspecting users.
 
 Despite some mitigations have been designed, like the [initial deposit requirement for proposals](https://github.com/cosmos/cosmos-sdk/pull/12771) - waiting for the Hub to upgrade to v0.47 of the Cosmos SDK to be deployed - and a more minimal [temporary mitigation](https://github.com/cosmos/gaia/issues/2246) that was deployed in the _v9-Lambda_ upgrade of the Cosmos Hub, we believe a better system could be put in place. Moreover, the deployed temporary mitigation seems to be largely ineffective, as spam proposals are still being regularly submitted, albeit arguably in lower quantities.
 
-Using a similar mechanism to the auto-adjusting inflation rate that targets a 2/3 bonding ratio, we can auto-adjust the deposit (between reasonable minimum and maximum bounds, just like the inflation rate) amount to target having on average *N* proposals active at any time, with *N* being a low number, e.g. 1 or 2.
+Using a similar mechanism to the auto-adjusting inflation rate that targets a 2/3 bonding ratio, we can auto-adjust the deposit amount (between reasonable minimum and maximum bounds, just like the inflation rate) to target having on average *N* proposals active at any time, with *N* being a low number, e.g. 1 or 2.
 
 More details on the idea and some initial considerations can be found on a Cosmos Hub Forum [post](https://forum.cosmos.network/t/governance-proposal-deposit-auto-throttler/10121).
 
