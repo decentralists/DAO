@@ -43,12 +43,12 @@ In practice, two kinds of governance proposals - from a high level perspective -
 1. **Urgent infrastructure and/or validator-related proposals**: In this scenario, validators would retain their delegated governance voting power. These proposals would carry over similarly to what happens today with governance delegations mirroring staking delegations.
 2. **Every other proposal**: Only direct voting would be allowed, with no delegations. However, this would require a mechanism for _quorum auto-adjustment_ that would account for the inevitable lower participation (in terms of voting power) with delegation-less voting.
 
-This would also require a governance body that would be in charge of checking if proposals are correctly cathegorized, and possibly punishing proposers otherwise.
+This would also require a governance body that would be in charge of checking if proposals are correctly categorized, and possibly punishing proposers otherwise.
 
 ### 4. Quorum Threshold Auto-Adjustment
 
 The idea would be to linearly decrease the quorum threshold when consecutive proposals fail because they do not meet quorum.
-This is a mechanism that would allow to find the proper quorum threshold in an environment where only direct voting is allowed, and as a consequence lower participation (with respect to total voting power) is to be expected.
+This is a mechanism that would allow us to find the proper quorum threshold in an environment where only direct voting is allowed, and as a consequence, lower participation (with respect to total voting power) is to be expected.
 
 A specific governance proposal could then be used to set the quorum threshold to a higher value should the need arise.
 
@@ -59,7 +59,7 @@ This mechanism would also work in tandem with the spam prevention *deposit auto-
 
 We aim at introducing an option to allow proposals to pass only if a 2/3+ supermajority votes *Yes*, and consequently remove the *NoWithVeto* vote option for these proposals as it would be not needed.
 
-The supermajority pass threshold might be only used on certain kind of proposals - e.g. constitution changes - or enacted for all proposals. This is yet to be fully decided and is subject to further discussion.
+The supermajority pass threshold might be only used on certain kinds of proposals - e.g. constitution changes - or enacted for all proposals. This is yet to be fully decided and is subject to further discussion.
 
 ## Conclusions
 
