@@ -10,6 +10,10 @@
 | Interchain Security - Replicated Security | Pause unbondings during equivocation governance proposal | Pending | [Issue](https://github.com/cosmos/interchain-security/issues/747) [ADR](https://github.com/cosmos/interchain-security/pull/964) [PR](https://github.com/cosmos/interchain-security/pull/791) | @albttx @tbruyelle @giunatale |
 | Interchain Security - Replicated Security | Sdk47 post upgrade cleanup | Merged | [PR](https://github.com/cosmos/interchain-security/pull/970) | @tbruyelle |
 | Interchain Security - Replicated Security | Remove legacy_ibc_testing folder | Merged | [Issue](https://github.com/cosmos/interchain-security/issues/1008) [PR](https://github.com/cosmos/interchain-security/pull/1185) | @tbruyelle |
+| IBC-go | Fix testing documentation | Merged | [PR](https://github.com/cosmos/ibc-go/pull/3712) | @tbruyelle
+| Cosmos-SDK | Add test units for Tally function | Merged | [PR](https://github.com/cosmos/cosmos-sdk/pull/17142) | @tbruyelle |
+| Cosmos-SDK | Fix depinject documentation | Merged | [Issue](https://github.com/cosmos/cosmos-sdk/issues/17743) [PR](https://github.com/cosmos/cosmos-sdk/pull/17758) | @tbruyelle |
+| ICS | Fix test for SDK50 upgrade | Merged | [Issue](https://github.com/cosmos/interchain-security/issues/1349) [PR](https://github.com/cosmos/interchain-security/pull/1398) | @tbruyelle |
 
 ## Transcripts
 
