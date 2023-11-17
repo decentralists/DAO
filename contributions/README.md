@@ -14,6 +14,7 @@
 | Cosmos-SDK | Add test units for Tally function | Merged | [PR](https://github.com/cosmos/cosmos-sdk/pull/17142) | @tbruyelle |
 | Cosmos-SDK | Fix depinject documentation | Merged | [Issue](https://github.com/cosmos/cosmos-sdk/issues/17743) [PR](https://github.com/cosmos/cosmos-sdk/pull/17758) | @tbruyelle |
 | ICS | Fix test for SDK50 upgrade | Merged | [Issue](https://github.com/cosmos/interchain-security/issues/1349) [PR](https://github.com/cosmos/interchain-security/pull/1398) | @tbruyelle |
+| IBC-go | Add testing handy method | Merged | [Issue](https://github.com/cosmos/ibc-go/issues/4287) [PR](https://github.com/cosmos/ibc-go/pull/4975) | @tbruyelle
 
 ## Transcripts
 
